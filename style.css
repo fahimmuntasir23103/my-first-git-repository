@@ -1,0 +1,19 @@
+div{
+    width: 60%;
+    margin: auto;
+    background-color: black;
+    padding: 50px 20px;
+}
+h1{
+    text-align: center
+}
+h1{
+    color:lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
